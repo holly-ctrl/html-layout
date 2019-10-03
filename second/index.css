@@ -1,0 +1,52 @@
+.topBox {
+    height: 100px;
+    background-color: white;
+    border: solid;
+    margin: 10px;
+}
+.tiniSquare {
+    background-color: rgb(110, 29, 161);
+    height: 70px;
+    width: 30px;
+    display: inline-block;
+}
+.bigSquare {
+    background-color: green;
+    height: 90px;
+    width: 200px;
+    margin: 0% 10%;
+    display: inline-block;
+}
+.circle {
+    border-radius: 50%;
+    background-color: rgb(116, 201, 212);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.middleBox {
+    height: 200px;
+    background-color: white;
+    border: dotted;
+    margin: 10px;
+}
+.insideMiddleBox {
+    height: 150px;
+    background-color: rgb(210, 214, 139);
+    border: outset;
+    margin: 20px;
+}
+
+.footerBox {
+    height: 230px;
+    background-color: white;
+    border: outset;
+    border-color: gray;
+    margin: 0 400px;
+}
+p {
+    text-align: center;
+    margin: 50px;
+    font-size: px;
+}
+

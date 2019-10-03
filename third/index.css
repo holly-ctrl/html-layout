@@ -1,0 +1,40 @@
+.grayBox {
+    height: 70px;
+    background-color: rgb(212, 212, 212);
+    
+}
+.tiniBlue {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(101, 154, 235);
+    margin: 20px 20px;
+}
+
+.mainBox {
+    background-color: white;
+    height: 150px;
+}
+p {
+    text-align: justify;
+    margin: 20px 20px;
+}
+
+.blue {
+    background-color: rgb(101, 154, 235);
+    height: 70px;
+}
+
+.teal {
+    background-color: rgb(101, 235, 226);
+    height: 70px;
+}
+
+.green {
+    background-color: rgb(167, 232, 88);
+    height: 70px;
+}
+
+.yellow {
+    background-color: rgb(222, 222, 71);
+    height: 70px;
+}

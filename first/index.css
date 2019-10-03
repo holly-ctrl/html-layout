@@ -1,0 +1,19 @@
+.header {
+    background-color: rgb(66, 61, 61);
+    height: 100px;
+}
+.middle{
+    background-color: white;
+    height: 400px;
+    margin: 0 100px;
+}
+.footer {
+    background-color: black;
+    height: 50px;
+    margin: 0 100px;
+}
+body {
+    background-color: rgb(212, 205, 205); 
+}
+
+
